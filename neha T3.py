@@ -1,3 +1,4 @@
+#Assignment No 3
 # Task 1
 f=int(input("enter the number:"))
 

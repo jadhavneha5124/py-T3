@@ -1,9 +1,11 @@
+#Assignment No 2
 #Task 1
 a=int(input("enter the number:"))
 if a % 2==0:
    print(f"{a} is an even number")
 else:
     print(f"{a} is an odd number")
+    
 
 #Task 2
 total_sum=0
