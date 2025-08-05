@@ -1,4 +1,5 @@
-# Task 1
+#Assignment no3
+# Task 1 
 f=int(input("enter the number:"))
 
 def factorial(n):
