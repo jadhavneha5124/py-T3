@@ -1,4 +1,3 @@
-#Assignment No 3
 # Task 1
 f=int(input("enter the number:"))
 
@@ -9,6 +8,7 @@ def factorial(n):
         return n*(factorial (n-1))
 r=factorial(f)
 print(f"factorial of {f} is:" ,r)
+
 
 #Task 2
 import math
